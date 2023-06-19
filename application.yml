@@ -13,5 +13,4 @@ eureka:
       defaultZone: http://localhost:8080/eureka
 
 
-messages:
-  SERVICE.EMPLOYEE_NOT_FOUND=Employee Not Found For the given Employee id
+
